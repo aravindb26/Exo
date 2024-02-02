@@ -94,8 +94,8 @@
     }
   },
   "dependencies": {
-    "@agoric/captp": "^1.7.1",
-    "@agoric/install-ses": "^0.5.1",
+    "@agoric/captp": "^1.10.8",
+    "@agoric/install-ses": "^0.5.29",
     "@pledger/plugin-agoric-app": "^0.1.0",
     "@pledger/plugin-agoric-ui": "^0.1.0",
     "electron-reload": "^1.5.0",
