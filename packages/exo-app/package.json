@@ -55,10 +55,10 @@
   },
   "dependencies": {
     "@agoric/babel-standalone": "^7.14.3",
-    "@agoric/bundle-source": "^1.4.11",
-    "@agoric/captp": "^1.10.5",
+    "@agoric/bundle-source": "^2.0.1",
+    "@agoric/captp": "^1.10.8",
     "@agoric/eventual-send": "^0.13.29",
-    "@agoric/import-bundle": "^0.2.30",
+    "@agoric/import-bundle": "^0.2.33",
     "@agoric/marshal": "^0.4.27",
     "@endo/compartment-mapper": "^0.5.3",
     "@endo/netstring": "^0.2.9",
