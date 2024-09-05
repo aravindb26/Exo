@@ -19,10 +19,10 @@
   "author": "Agoric",
   "license": "Apache-2.0",
   "dependencies": {
-    "@agoric/cosmic-swingset": "^0.25.1",
+    "@agoric/cosmic-swingset": "^0.34.3",
     "agoric": "^0.11.2",
     "node-lmdb": "^0.9.4",
-    "re2": "^1.15.6"
+    "re2": "^1.21.4"
   },
   "devDependencies": {
     "electron": "~11.5.0",
