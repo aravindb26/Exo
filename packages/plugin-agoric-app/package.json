@@ -19,8 +19,8 @@
   "author": "Agoric",
   "license": "Apache-2.0",
   "dependencies": {
-    "@agoric/cosmic-swingset": "^0.25.1",
-    "agoric": "^0.11.2",
+    "@agoric/cosmic-swingset": "^0.34.3",
+    "agoric": "^0.14.1",
     "node-lmdb": "^0.9.4",
     "re2": "^1.15.6"
   },
